@@ -35,8 +35,7 @@ Background:
 </details>
 
 
-
-- 📫 How to reach me:
+📫 How to reach me:
 
 
 
