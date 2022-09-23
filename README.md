@@ -3,7 +3,8 @@
 
 ![Headshot][logo]
 
-[logo]: https://github.com/nicholasdsouza17/nicholasdsouza17/blob/main/headshot%20nyc.jpg
+[logo]: https://github.com/nicholasdsouza17/nicholasdsouza17/blob/main/final%20head%20shot%20web.JPG
+
 
 #### About Me
 👋 Hi, I’m Nicholas D'Souza. I am currently Consultant in Forensic Disputes & Investigations.
@@ -42,7 +43,17 @@ Background:
 
 📫 How to reach me:
 
+![linkedin][logolinkedin]
+![twitter][logotwitter]
+![email][logoemail]
 
+[logolinkedin]: https://github.com/nicholasdsouza17/nicholasdsouza17/blob/main/Linked%20in%20logo.JPG
+
+
+[logotwitter]: https://github.com/nicholasdsouza17/nicholasdsouza17/blob/main/twitter%20logo.JPG
+
+
+[logoemail]: https://github.com/nicholasdsouza17/nicholasdsouza17/blob/main/gmail%20logo.JPG
 
 <!---
 nicholasdsouza17/nicholasdsouza17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
