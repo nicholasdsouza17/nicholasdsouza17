@@ -1,5 +1,10 @@
 # Nicholas D'Souza
 ### nicholasdsouza.eth
+
+![alt text][logo]
+
+[logo]: 
+
 #### About Me
 👋 Hi, I’m Nicholas D'Souza. I am currently Consultant in Forensic Disputes & Investigations.
 I am extremely interested in all things fintech, web3/blockchain, and digital assets.
