@@ -1,9 +1,9 @@
 # Nicholas D'Souza
 ### nicholasdsouza.eth
 
-![alt text][logo]
+![Headshot][logo]
 
-[logo]: 
+[logo]: https://github.com/nicholasdsouza17/nicholasdsouza17/blob/main/headshot%20nyc.jpg
 
 #### About Me
 👋 Hi, I’m Nicholas D'Souza. I am currently Consultant in Forensic Disputes & Investigations.
