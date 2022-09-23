@@ -45,7 +45,7 @@ Background:
 
 *[![linkedin][logolinkedin]](https://www.linkedin.com/in/nicholas-d-souza-72269a158)*
 *[![twitter][logotwitter]](https://twitter.com/em203ndsouza/)*
-*[![email][logoemail]](nicholasdsouza17@gmail.com)*
+*[![email][logoemail]](mailto:nicholasdsouza17@gmail.com)*
 
 
 [logolinkedin]: https://github.com/nicholasdsouza17/nicholasdsouza17/blob/main/Linked%20in%20logo.JPG
